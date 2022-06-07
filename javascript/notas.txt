@@ -3,3 +3,28 @@ javascript usa tipado inferido - Javascript pertenece al grupo de lenguajes impe
 Un tipado blando (o no tipado) significa que las variables son declaradas sin un tipo: los valores pueden modificarse, compararse y operar entre ellos sin necesidad de realizar una conversión previa.
 
 --------------------------------------------------------------------------------------------------------
+
+null es un espacio vacio en memoria, valor vacio
+undefined, es un valor indefinido, que todavia no esta asignado en memoria
+null, undefined, false, 0 -> todas son Falsy, y no son del mismo tipo
+
+diferencia entre var y let = var afecta a todo el codigo, y let solo afecta al bloque de codigo donde se usa, var ya no se usa.
+
+const es una variable constante que no se puede cambiar.
+--------------------------------------------------------------------------------------------------------
+
+NOTACION
+;  el punto y coma sirve para delimitar el final de una linea
+
+. se usa en los objetos para acceder a los atributos ej: movil.numero -> se accede a la propiedad numero del objeto movil
+
+[] corchetes  para array
+
+() parentesis se utilizan para las funciones
+
+{} llaves para objetos, funciones y estructuras de control
+
+--------------------------------------------------------------------------------------------------------
+
+
+
